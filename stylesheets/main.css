@@ -10,15 +10,15 @@ body {
 
 h1 {
   font-family: 'Old Standard TT';
-  padding-top: 5rem;
+  margin-top: 4.5rem;
 }
 
 .buttons {
-  margin-top: 5rem;
+  margin-top: 2.5rem;
 }
 
 .quoteRow {
-  margin-top: 4rem;
+  margin-top: 2rem;
 }
 
 #quoteText {
