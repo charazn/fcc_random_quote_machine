@@ -1,0 +1,37 @@
+html {
+  font-size: 1rem;
+}
+
+body {
+  /* https://css-tricks.com/almanac/properties/b/background/ */
+  background: url(https://dl.dropboxusercontent.com/s/0eyniqtt65ocdkq/wood_texture_1280x720.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Old Standard TT';
+  padding-top: 5rem;
+}
+
+.buttons {
+  margin-top: 5rem;
+}
+
+.quoteRow {
+  margin-top: 4rem;
+}
+
+#quoteText {
+  font-family: Merriweather;
+  font-size: 2.5rem;
+  font-style: italic;
+  font-weight: 500;
+  color: white;
+}
+
+#quoteAuthor {
+  font-family: Merriweather;
+  font-size: 2rem;
+  text-align: left;
+  color: white;
+}
